@@ -31,11 +31,11 @@ Once you have cloned the repository, you can open the index.html file in your br
 
 If you would like to contribute to the project, feel free to fork the repository and submit a pull request. All contributions are welcome and greatly appreciated!
 
-##Credits
+## Credits
 
 The Rrethi TV website was designed and developed by [insert your name/company].
 
-##License
+## License
 
 This project is licensed under the [insert license type] license. See the LICENSE file for more information.
 
