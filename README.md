@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+## Rrethi TV Website Project
+This is the Github repository for the Rrethi TV website, a marketing agency based in Prishtina. The website was designed and developed by me, with the aim of showcasing the agency's services and portfolio to potential clients.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Technologies Used
+## The website was built using the following technologies:
 
-## Available Scripts
+HTML5
+CSS3
+TypeScript
+React
+Features
 
-In the project directory, you can run:
+## The website includes the following features:
 
-### `npm start`
+Home page with a hero section, about section, services section, and portfolio section.
+Contact page with a contact form and contact information.
+Fully responsive design that looks great on all devices.
+Custom animations and transitions to enhance the user experience.
+Cross-browser compatibility.
+SEO-friendly markup.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Getting Started
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+To get started with the project, simply clone the repository to your local machine using the command:
 
-### `npm test`
+git clone https://github.com/jonbala/rrethi-tv.git
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Once you have cloned the repository, you can open the index.html file in your browser to view the website.
 
-### `npm run build`
+## Contributing
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+If you would like to contribute to the project, feel free to fork the repository and submit a pull request. All contributions are welcome and greatly appreciated!
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+##Credits
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+The Rrethi TV website was designed and developed by [insert your name/company].
 
-### `npm run eject`
+##License
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+This project is licensed under the [insert license type] license. See the LICENSE file for more information.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
